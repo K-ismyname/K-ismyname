@@ -37,8 +37,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=K-ismyname&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-ismyname&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+  <img height="160" src="https://github-readme-stats-kismyname.vercel.app/api?username=K-ismyname&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats-kismyname.vercel.app/api/top-langs/?username=K-ismyname&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
 </div>
 
 <br/>
@@ -69,10 +69,8 @@
 ## ⏱ WakaTime
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=K-ismyname&theme=github_dark&hide_border=true&layout=compact" alt="wakatime stats" />
+  <img src="https://github-readme-stats-kismyname.vercel.app/api/wakatime?username=1d15da8c-2fbe-4d75-9ff3-2704fe474ddb&theme=github_dark&hide_border=true&layout=compact" alt="wakatime stats" />
 </div>
-
-> WakaTime 연동 필요: [wakatime.com](https://wakatime.com) 가입 → IDE 플러그인 설치 → GitHub Stats에 WakaTime API Key 설정
 
 ---
 
