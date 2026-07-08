@@ -48,14 +48,6 @@
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=K-ismyname&theme=darkhub&no-frame=true&column=7&margin-w=4" alt="trophies" />
-</div>
-
----
-
 ## 📈 Activity Graph
 
 <div align="center">
