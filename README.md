@@ -3,8 +3,6 @@
 <!-- 방문자 카운터 -->
 <img src="https://komarev.com/ghpvc/?username=K-ismyname&style=flat-square&color=58A6FF" alt="profile views" />
 
-<!-- 타이핑 애니메이션 -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+%2F+LLM+Application+Engineer+%F0%9F%A4%96;Building+Agentic+RAG+Systems;LangGraph+%7C+Neo4j+%7C+FastAPI;PoC+%E2%86%92+MVP+%E2%86%92+Deploy" alt="Typing SVG" />
 
 <br/>
 
