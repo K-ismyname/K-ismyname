@@ -44,6 +44,18 @@
 
 ---
 
+## 🚀 Featured Project — AI Data Team OS
+
+GA4로 수집한 웹사이트 데이터를 8개 AI 에이전트가 협업해 자동 분석하는 **데이터 분석 멀티 에이전트 시스템**입니다. 질문 한 줄을 입력하면 데이터 팀의 역할 분담(Planner → Analyst → Data Scientist → QA → Head of Data)을 그대로 반영한 파이프라인이 실행됩니다.
+
+- **LangGraph** 기반 8-Agent 파이프라인 — Planner가 분석 전략을 세우고, QA Reviewer·Evaluator가 이중 검증한 결과만 최종 출력
+- **환각 방지 설계** — 에이전트는 숫자를 추정하지 않고 BigQuery Mart를 tool calling으로 직접 조회, KPI 정의는 문서 하나(SSOT)에서만 런타임 주입
+- **A/B 테스트 통계 검정 자동화** — CVR 유의성 검정(two-proportion z-test)을 Python으로 결정론적 계산해 LLM의 p-value 추정을 원천 차단
+
+🔗 [라이브 데모](https://dashboard-leegahees-projects.vercel.app) · [소스코드](https://github.com/K-ismyname/da_agent)
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
