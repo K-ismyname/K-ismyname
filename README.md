@@ -32,6 +32,18 @@
 
 ---
 
+## 🚀 Featured Project — JobGraph
+
+채용공고를 수집·분석하고, 이력서를 올리면 직무 대비 부족한 기술과 개선 방향을 알려주는 **Agentic RAG 시스템**입니다.
+
+- **LangGraph** 기반 Corrective RAG 루프 — "증거가 충분한가"를 에이전트가 스스로 판단해 부족하면 재검색
+- **Neo4j** 그래프로 직무-기술 관계(REQUIRES/CO_OCCURS) 표현, 이력서·GitHub·포트폴리오·배포 URL 4개 소스 교차검증으로 신뢰도(confidence) 등급 산출
+- 적합도(얼마나 잘하는가) ⊥ 신뢰도(그 주장을 얼마나 믿을 수 있는가)를 분리해 과장된 이력서 주장을 걸러냄
+
+🔗 [라이브 데모](https://gaheelee-job-graph.hf.space) · [소스코드](https://github.com/K-ismyname/jobgraphPJ)
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
