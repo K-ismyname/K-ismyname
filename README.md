@@ -44,6 +44,18 @@
 
 ---
 
+## 🚀 Featured Project — The Formula (팀 참여)
+
+현업 개발자·디자이너로 구성된 팀에서 AI 실무 공식 커뮤니티 **The Formula** 개발에 참여했습니다.
+
+- **매너온도 신뢰 등급 시스템** 설계·구현 (`trust.ts` 전체 소유) — 당근마켓식 감속곡선 온도 공식, 5단계 등급 체계, 어뷰징 방지 캡 설계
+- **마이페이지 전면 개편** (PR #2) — 프로필 히어로 레이아웃, 북마크 기반 관심사 자동 추론, 활동이력 타임라인
+- **GA4 연동** → 수집된 로그 데이터가 AI Data Team OS 분석 파이프라인의 입력 소스
+
+🔗 [서비스](https://the-formula-silk.vercel.app)
+
+---
+
 ## 🚀 Featured Project — AI Data Team OS
 
 GA4로 수집한 웹사이트 데이터를 8개 AI 에이전트가 협업해 자동 분석하는 **데이터 분석 멀티 에이전트 시스템**입니다. 질문 한 줄을 입력하면 데이터 팀의 역할 분담(Planner → Analyst → Data Scientist → QA → Head of Data)을 그대로 반영한 파이프라인이 실행됩니다.
