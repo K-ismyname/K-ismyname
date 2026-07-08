@@ -3,8 +3,6 @@
 <!-- 방문자 카운터 -->
 <img src="https://komarev.com/ghpvc/?username=K-ismyname&style=flat-square&color=58A6FF" alt="profile views" />
 
-<!-- 타이핑 애니메이션 -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+%2F+LLM+Application+Engineer+%F0%9F%A4%96;Building+Agentic+RAG+Systems;LangGraph+%7C+Neo4j+%7C+FastAPI;PoC+%E2%86%92+MVP+%E2%86%92+Deploy" alt="Typing SVG" />
 
 <br/>
 
@@ -46,14 +44,6 @@
 <!-- 스트릭 카드 -->
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=K-ismyname&theme=github-dark-blue&hide_border=true&date_format=Y.n.j" alt="GitHub Streak" />
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=K-ismyname&theme=darkhub&no-frame=true&column=7&margin-w=4" alt="trophies" />
 </div>
 
 ---
