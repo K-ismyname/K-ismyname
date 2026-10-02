@@ -1,9 +1,5 @@
 <div align="center">
 
-<!-- 방문자 카운터 -->
-<img src="https://komarev.com/ghpvc/?username=K-ismyname&style=flat-square&color=58A6FF" alt="profile views" />
-
-
 <br/>
 <h1>Data Analyst | AI Engineer</h1>
 
